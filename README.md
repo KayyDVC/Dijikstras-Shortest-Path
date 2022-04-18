@@ -10,20 +10,22 @@ other projects, I don't think I'll be revisiting this project.
 
 The program requires a text file to start. The file must be in the format:
 
->Rows*int* Cols*int*
->#############
-># d     c#  #
->#      #    #
->#      T    #
->#           #
-># I         #
->#############
+Rows*int* Cols*int*
+#############
+# d     c#  #
+#      #    #
+#      T    #
+#           #
+# I         #
+#############
 
 Where:
 1. \# = border or stationary/non-moving object
 2. T = Tron
 3. I = Tower/End Goal
 4. a-z = Bugs that attack Tron
+
+Sample files have been provided.
 
 **Only Tron Moves** Please keep this in mind. There is no game over functionality; The program **only displays the shortest distance from each bug 
 to Tron based on the initial user input.*
