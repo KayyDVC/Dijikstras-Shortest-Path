@@ -19,7 +19,7 @@ Rows(int) Cols(int)
 #           #
 # I         #
 #############
-<\pre>
+</pre>
 
 Where:
 1. \# = border or stationary/non-moving object
