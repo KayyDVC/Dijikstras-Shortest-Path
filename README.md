@@ -13,11 +13,17 @@ The program requires a text file to start. The file must be in the format:
 Rows*int* Cols*int*
 
 \#\#\#\#\#\#\#\#\#\#\#\#\#
+
 \# d     c\#  \#
+
 \#      \#    \#
+
 \#      T    \#
+
 \#           \#
+
 \# I         \#
+
 \#\#\#\#\#\#\#\#\#\#\#\#\#
 
 Where:
