@@ -12,19 +12,21 @@ The program requires a text file to start. The file must be in the format:
 
 Rows*int* Cols*int*
 
+<pre>
 \#\#\#\#\#\#\#\#\#\#\#\#\#
 
-\# d\t     c\#  \#
+\# d     c\#  \#
 
-\#\t      \#    \#
+\#      \#    \#
 
-\#\t      T    \#
+\#      T    \#
 
-\#\t           \#
+\#           \#
 
-\# I\t         \#
+\# I         \#
 
 \#\#\#\#\#\#\#\#\#\#\#\#\#
+<pre>
 
 Where:
 1. \# = border or stationary/non-moving object
