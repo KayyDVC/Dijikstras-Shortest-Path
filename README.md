@@ -10,8 +10,8 @@ other projects, I don't think I'll be revisiting this project.
 
 The program requires a text file to start. The file must be in the format:
 
-Rows*int* Cols*int*
 <pre>
+Rows(int) Cols(int)
 #############
 # d     c#  #
 #      #    #
